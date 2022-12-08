@@ -1,0 +1,19 @@
+{
+  "name": "nickfasulo-resume",
+  "version": "1.0.0",
+  "description": "Resume of Nick Fasulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Resume",
+    "Nick",
+    "Fasulo"
+  ],
+  "author": "Nick Fasulo",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}

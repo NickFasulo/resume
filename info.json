@@ -1,0 +1,27 @@
+{
+  "name": "Nick Fasulo",
+  "linkedin": "https://www.linkedin.com/in/nicholas-fasulo",
+  "github": "https://github.com/NickFasulo",
+  "email": "fasulo.nick@gmail.com",
+  "resume": "https://docs.google.com/document/d/1xyq-9uPymYUsxhS4s4ee5c70UpP_hK04Jc8hb64_Sr4/edit?usp=share_link",
+  "proficientTechnologies": [
+    "Javascript",
+    "Typescript",
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Git"
+  ],
+  "pet": {
+    "name": "Rae Marie",
+    "type": "dog",
+    "breed": "Shiba Inu"
+  }
+}
